@@ -24,7 +24,7 @@ public class Person {
     public Person(String name) {
 
         this.name = name;
-        this.emil=email;
+        this.email=email;
     }
 
     public String getName() {
